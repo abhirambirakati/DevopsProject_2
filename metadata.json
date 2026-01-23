@@ -1,0 +1,8 @@
+
+{
+  "name": "DataMind - Neural Analytics Engine",
+  "description": "A premium, black-and-white themed data science platform for automated intelligence, interactive visual modeling, and neural predictive analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
